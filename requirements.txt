@@ -1,0 +1,4 @@
+requests>=2.31
+zxcvbn>=4.4.28
+rich>=13.7
+pytest>=8.0

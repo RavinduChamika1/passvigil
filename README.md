@@ -1,4 +1,26 @@
-<p align="center"> <img src="assets/logo.png" alt="PassVigil - Password Strength & Breach Checker" width="720"> </p> <p align="center"> <img alt="Python" src="https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white"> <img alt="License" src="https://img.shields.io/badge/License-MIT-green"> <img alt="API key" src="https://img.shields.io/badge/API%20key-not%20required-22D3EE"> <img alt="Privacy" src="https://img.shields.io/badge/Password-never%20leaves%20your%20PC-success"> <img alt="Series" src="https://img.shields.io/badge/52%20Weeks%20of%20Security-Week%201-blueviolet"> </p> <p align="center"> <b>Check how strong a password is and whether it has been leaked, without ever sending the password anywhere.</b> </p> <p align="center"> <a href="#-quick-start">Quick start</a> · <a href="#-why-this-tool-exists">Why this exists</a> · <a href="#-how-it-works">How it works</a> · <a href="#-usage">Usage</a> · <a href="#-learn-from-this-project">Learn</a> </p>
+<p align="center">
+  <img src="assets/logo.png" alt="PassVigil - Password Strength & Breach Checker" width="720">
+</p>
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-green">
+  <img alt="API key" src="https://img.shields.io/badge/API%20key-not%20required-22D3EE">
+  <img alt="Privacy" src="https://img.shields.io/badge/Password-never%20leaves%20your%20PC-success">
+  <img alt="Series" src="https://img.shields.io/badge/52%20Weeks%20of%20Security-Week%201-blueviolet">
+</p>
+
+<p align="center">
+  <b>Check how strong a password is and whether it has been leaked, without ever sending the password anywhere.</b>
+</p>
+
+<p align="center">
+  <a href="#-quick-start">Quick start</a> ·
+  <a href="#-why-this-tool-exists">Why this exists</a> ·
+  <a href="#-how-it-works">How it works</a> ·
+  <a href="#-usage">Usage</a> ·
+  <a href="#-learn-from-this-project">Learn</a>
+</p>
 
 ---
 
@@ -201,7 +223,6 @@ Breach Check
 
 ```
 week-01-password-checker/
-
 ├── src/
 │   ├── cli.py            # program flow, progress bar, report
 │   ├── breach.py         # SHA-1 hashing + HIBP k-anonymity lookup

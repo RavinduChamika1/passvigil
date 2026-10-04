@@ -299,7 +299,7 @@ Contributions are welcome.
 3. Make your changes and run `pytest`
 4. Commit and push, then open a Pull Request
 
-Found a bug or have an idea? [Open an issue](https://github.com/YOUR-GITHUB-USERNAME/week-01-password-checker/issues).
+Found a bug or have an idea? [Open an issue](https://github.com/RavinduChamika1/week-01-password-checker/issues).
 
 ---
 
@@ -307,8 +307,8 @@ Found a bug or have an idea? [Open an issue](https://github.com/YOUR-GITHUB-USER
 
 **Ravindu Chamika**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravindu-chamika)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/RavinduChamika1)
 
 If this helped you learn something, please ⭐ the repo and follow the series.
 

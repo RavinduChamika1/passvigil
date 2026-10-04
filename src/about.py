@@ -1,0 +1,6 @@
+AUTHOR = "Ravindu Chamika"
+YEAR = "2026"
+COPYRIGHT = f"Copyright (c) 2026 Ravindu Chamika"
+LICENSE_NAME = "MIT License"
+SERIES = "52 Weeks of Security"
+LINKEDIN = "https://www.linkedin.com/in/ravindu-chamika/"   
